@@ -29,7 +29,6 @@ module.exports = {
         displayAllHeaders: true,
         lastUpdated: '上次更新',
         serviceWorker: {
-            updatePopup: true,
             updatePopup: { 
                message: "有新内容。", 
                buttonText: "刷新" 
