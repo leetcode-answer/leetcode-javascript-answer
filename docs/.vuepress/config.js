@@ -12,6 +12,7 @@ module.exports = {
         toc: { includeLevel: [1, 2, 3] }
     },
     themeConfig: {
+        sidebarDepth: 2,
         nav: [
             { text: '首页', link: '/' },
             {
