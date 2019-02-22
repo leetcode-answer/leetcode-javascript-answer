@@ -13,6 +13,10 @@ module.exports = {
     themeConfig: {
         nav: [
             { text: '首页', link: '/' },
+            {
+                text: '解题思路',
+                link: '/mdDocs/'
+            },
         ]
     }
 }
