@@ -8,7 +8,3 @@ meta:
 ---
 
 # leetcode-javascript-answer #
-
-::: tip 阅读提示
-每个方法都有相应的描述、发多少发生大法师
-:::
