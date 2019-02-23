@@ -25,6 +25,7 @@ module.exports = {
                 ['', '两数之和'],
                 ['longestSubstringWithoutRepeatingCharacters', '无重复字符的最长子串'],
                 ['zigZagConversion', 'Z 字形变换'],
+                ['reverseInteger', '整数反转']
             ]
         },
         displayAllHeaders: true,
