@@ -22,8 +22,8 @@ module.exports = {
         ],
         sidebar: {
             '/mdDocs/': [
-                ['', 'Two Sum'],
-                ['addTwoNumbers', 'Add Two Numbers'],
+                ['', '两数之和'],
+                ['longestSubstringWithoutRepeatingCharacters', '无重复字符的最长子串'],
             ]
         },
         displayAllHeaders: true,
