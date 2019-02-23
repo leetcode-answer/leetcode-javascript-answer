@@ -21,6 +21,8 @@ footer: MIT Licensed | Copyright © 2019-present fxss5201
 ![](https://img.shields.io/badge/VuePress-v1.x-blue.svg)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
+QQ群：737278880
+
 如果您有更多更好更棒的方法，欢迎您的加入，让我们一起共同完善。
 
 ---
