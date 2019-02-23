@@ -34,6 +34,7 @@ module.exports = {
                buttonText: "刷新" 
             }
         },
+        repo: 'leetcode-answer/leetcode-javascript-answer',
         docsRepo: 'leetcode-answer/leetcode-javascript-answer',
         docsDir: 'docs',
         docsBranch: 'master',
