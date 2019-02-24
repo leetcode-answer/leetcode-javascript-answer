@@ -19,6 +19,7 @@ module.exports = {
                 text: '解题思路',
                 link: '/mdDocs/'
             },
+            { text: '更新日志', link: '/version/' }
         ],
         sidebar: {
             '/mdDocs/': [
