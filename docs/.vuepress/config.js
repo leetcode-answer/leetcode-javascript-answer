@@ -26,10 +26,11 @@ module.exports = {
                 ['', '两数之和'],
                 ['longestSubstringWithoutRepeatingCharacters', '无重复字符的最长子串'],
                 ['zigZagConversion', 'Z 字形变换'],
-                ['reverseInteger', '整数反转']
+                ['reverseInteger', '整数反转'],
+                ['palindromeNumber', '回文数'],
+                ['romanToInteger', '罗马数字转整数']
             ]
         },
-        displayAllHeaders: true,
         lastUpdated: '上次更新',
         serviceWorker: {
             updatePopup: { 
