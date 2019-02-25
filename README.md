@@ -12,20 +12,17 @@ leetcode中使用javascript的解题答案<https://leetcode-answer.github.io/lee
 运行本项目，需要将 VuePress 安装为本地依赖：
 
 ``` Shell
-# 将 VuePress 作为一个本地依赖安装
-yarn add -D vuepress # 或者：npm install -D vuepress
+# 将本项目克隆到本地
+git clone git@github.com:leetcode-answer/leetcode-javascript-answer.git
 
-# 新建一个 docs 文件夹
-mkdir docs
-
-# 新建一个 markdown 文件
-echo '# Hello VuePress!' > docs/README.md
+# 安装依赖
+npm install
 
 # 开始写作
-yarn docs:dev # 或者：npm run docs:dev
+npm run docs:dev
 
 # 构建
-yarn docs:build # 或者：npm run docs:build
+npm run docs:build
 ```
 
 其他相关配置请查看 [VuePress官网](https://vuepress.vuejs.org/zh/) 。

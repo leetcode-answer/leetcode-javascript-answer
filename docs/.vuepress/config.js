@@ -28,7 +28,8 @@ module.exports = {
                 ['zigZagConversion', 'Z 字形变换'],
                 ['reverseInteger', '整数反转'],
                 ['palindromeNumber', '回文数'],
-                ['romanToInteger', '罗马数字转整数']
+                ['romanToInteger', '罗马数字转整数'],
+                ['longestCommonPrefix', '最长公共前缀']
             ]
         },
         lastUpdated: '上次更新',
