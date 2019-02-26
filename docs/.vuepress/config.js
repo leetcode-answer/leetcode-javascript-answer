@@ -23,13 +23,14 @@ module.exports = {
         ],
         sidebar: {
             '/mdDocs/': [
-                ['', '两数之和'],
-                ['longestSubstringWithoutRepeatingCharacters', '无重复字符的最长子串'],
-                ['zigZagConversion', 'Z 字形变换'],
-                ['reverseInteger', '整数反转'],
-                ['palindromeNumber', '回文数'],
-                ['romanToInteger', '罗马数字转整数'],
-                ['longestCommonPrefix', '最长公共前缀']
+                ['', '1-->>两数之和'],
+                ['longestSubstringWithoutRepeatingCharacters', '3-->>无重复字符的最长子串'],
+                ['zigZagConversion', '6-->>Z 字形变换'],
+                ['reverseInteger', '7-->>整数反转'],
+                ['palindromeNumber', '9-->>回文数'],
+                ['romanToInteger', '13-->>罗马数字转整数'],
+                ['longestCommonPrefix', '14-->>最长公共前缀'],
+                ['validParentheses', '20-->>有效的括号']
             ]
         },
         lastUpdated: '上次更新',
